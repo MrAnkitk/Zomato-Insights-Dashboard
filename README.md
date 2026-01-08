@@ -2,6 +2,7 @@
 
 **Project Overview**
 - **Title:** Zomato Insights Dashboard – Data-Driven Restaurant Performance Analysis
+- **Role:** Data Analyst & Dashboard Developer
 
 ---
 **Key Features**
