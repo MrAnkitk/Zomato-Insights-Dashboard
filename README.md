@@ -2,7 +2,9 @@
 
 **Project Overview**
 - **Title:** Zomato Insights Dashboard – Data-Driven Restaurant Performance Analysis
-
+- **Role:** Data Analyst & Dashboard Developer
+- **Tools:** Power BI, Excel, Data Visualization, DAX
+- **Objective:** To analyze Zomato’s restaurant performance, customer behavior, and operational trends to drive actionable business decisions.
 
 ---
 **Key Features**
